@@ -1,0 +1,6 @@
+[
+    {
+      "name": "sample-app",
+      "imageUri": "581596648948.dkr.ecr.us-east-1.amazonaws.com/sample-service:latest"
+    }
+]
